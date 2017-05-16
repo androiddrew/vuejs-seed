@@ -1,0 +1,25 @@
+{
+  "name": "vuejs",
+  "authors": [
+    ""
+  ],
+  "description": "A simple Vue JS Application",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "js",
+    "lib",
+    "css"
+  ],
+  "dependencies": {
+    "vue": "^2.3.3",
+    "normalize-css": "^7.0.0"
+  }
+}
